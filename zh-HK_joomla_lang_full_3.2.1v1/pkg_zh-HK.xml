@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<extension type="package" version="3.2">
+   <name>中文(繁體．香港)完整語言包</name>
+   <packagename>zh-HK</packagename>
+   <version>3.2.1.1</version>
+   <creationDate>2013-12-24</creationDate>
+   <author>Joomla! HongKong User Community</author>
+   <authorEmail>info@rockfu.net</authorEmail>
+   <authorUrl>www.rockfu.net</authorUrl>
+    <copyright>Copyright (C) 2005 - 2012 Copyright (C) 2005 - 2012 Open Source Matters  All rights reserved. modified from Joomla! Taiwan User Community</copyright>
+   <license>GNU General Public License version 2 or later; see LICENSE.txt</license>
+   <url></url>
+   <packager>Joomla! Traditional Chinese(HongKong)</packager>
+   <packagerurl>www.bigmac.hk</packagerurl>
+   <description>
+      <![CDATA[
+      <h3>Joomla! 3.2.1v1 中文(繁體．香港)完整語言包</h3>
+      <h3>Joomla! 3.2.1v1 Traditional Chinese (HongKong) Language Package</h3>
+      ]]>
+   </description>
+   <files>
+        <file type="language" client="site" id="zh-TW">site_zh-HK.zip</file>
+        <file type="language" client="administrator" id="zh-TW">admin_zh-HK.zip</file>
+  </files>
+	<updateservers>
+        <server type="collection" priority="1" name="Accredited Joomla! Translations">http://update.joomla.org/language/translationlist_3.xml</server>
+    </updateservers>
+</extension>
